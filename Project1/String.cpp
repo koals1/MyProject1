@@ -23,7 +23,7 @@
 //
 //String::~String()
 //{
-//    delete[] str;
+//  delete[] str;
 //}
 //
 //void String::input()

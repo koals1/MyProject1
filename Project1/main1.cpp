@@ -22,7 +22,7 @@
 //    if (s2 == s3) 
 //    {
 //        cout << "Strings are equal." << std::endl;
-//    }
+//   }
 //    else 
 //    {
 //        cout << "Strings are not equal." << endl;
