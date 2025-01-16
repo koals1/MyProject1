@@ -19,13 +19,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Array.h" />
     <ClInclude Include="Drib.h" />
     <ClInclude Include="String.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Array.cpp" />
     <ClCompile Include="Drib.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="main1.cpp" />
+    <ClCompile Include="main2.cpp" />
     <ClCompile Include="String.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
